@@ -4,6 +4,8 @@
 
 ## Tidy data
 
+# Adding annotations as per question 12.5 in Homework 2
+
 # Values in column names 
 
 raw <- read.csv("data/pew.csv", check.names = F)
